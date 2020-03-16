@@ -12,7 +12,7 @@
         <br>
         <br>
 
-        <p> Dibuat dengan VueJS. Lihat di <a href="http://github.com" target="_blank">Github</a> </p>
+        <p> Dibuat dengan VueJS. Lihat di <a href="https://github.com/iniakunhuda/covid19" target="_blank">Github</a> </p>
 
         <br>
         <br>
