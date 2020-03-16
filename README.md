@@ -2,7 +2,7 @@
 
 Covid19 sekarang sudah menjadi pandemik di awal maret tahun 2020, oleh karena itu agar mendapatkan informasi lebih mudah mengenai jumlah pasien dan korban di seluruh dunia, maka dibuatlah website ini. 
 
-Jangan panik, tetap jaga kesehatan. Jiayou :) !
+Jangan panik, tetap jaga kesehatan. Jiayou :smiley:
 
 ### Demo
 [http://labhuda.com/covid19](http://labhuda.com/covid19)
@@ -11,7 +11,7 @@ Jangan panik, tetap jaga kesehatan. Jiayou :) !
 - VueJS
 - Bulma CSS
 - MomentJS
-- NumeralJS
+- Numeral
 
 ### Todo
 - Langkah - langkah pencegahan
