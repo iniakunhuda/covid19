@@ -1,0 +1,15 @@
+:root {
+    --app-body-color: #FFF;
+    --component-background-color: #FFF;
+    --app-header-color: #167df0;
+    --dynamic-title-color: #555;
+    --dynamic-subtitle-color: #EEE;
+}
+
+[theme="dark"] {
+    --app-body-color: #091A28;
+    --app-header-color: #071520;
+    --component-background-color: #071520;
+    --dynamic-title-color: #FFFFFF;
+    --dynamic-subtitle-color: #EEE;
+}

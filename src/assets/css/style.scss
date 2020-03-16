@@ -1,0 +1,51 @@
+@import 'theme-colors';
+
+/** Body **/
+.body-background {
+  background-color: var(--app-body-color) !important;
+}
+
+/** Header **/
+.app-background { 
+  background-color: var(--app-header-color);
+}
+
+/** Component **/
+.component-background { 
+  background-color: var(--component-background-color);
+}
+
+table, .table, .b-table .table-wrapper.has-sticky-header tr:first-child th {
+  background-color: var(--component-background-color);
+  color: var(--dynamic-title-color) !important;
+}
+
+
+.dynamic-title {
+  color: var(--dynamic-title-color) !important;
+}
+
+.dynamic-subtitle {
+  color: var(--dynamic-subtitle-color);
+  padding-top: 10px;
+}
+
+/*
+* === THEME SWITCH ===
+*/
+input.theme-switch {
+  display: none;
+}
+
+input.theme-switch + label {
+  cursor: pointer;
+}
+
+input.theme-switch:not(:checked) + label:hover {
+  cursor: pointer;
+}
+
+input.theme-switch + label:active,
+input.theme-switch:checked + label {
+  cursor: pointer;
+}
