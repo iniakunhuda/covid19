@@ -33,6 +33,8 @@
 
       <br><br>         
       <IDCard />
+      <br><br>
+      <RSRujukan />
 
       <br><br>         
       <Footer />
@@ -48,6 +50,7 @@ import { CovidAPI } from '../services/API/CovidAPI';
 import GlobalCard from './Global/GlobalCard';
 import GlobalTable from './Global/GlobalTable';
 import IDCard from './Indonesia/IDCard';
+import RSRujukan from './Indonesia/RSRujukan';
 import Footer from './Footer';
 const covidAPI = new CovidAPI();
 
@@ -56,6 +59,7 @@ export default {
   components: {
     GlobalCard,
     GlobalTable,
+    RSRujukan,
     Footer,
     IDCard
   },
